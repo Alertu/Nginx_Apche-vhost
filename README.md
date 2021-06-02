@@ -1,8 +1,10 @@
-# Nginx-vhost:
+## Nginx/Apache Host配置
 
-[Nginx-vhost](http://www.baidu.com "Nginx-vhost")
+### Nginx-vhost:
+
+[Nginx-vhost](https://github.com/Alertu/Nginx_Apche-vhost/blob/master/Nginx-vhost.config "Nginx-vhost")
 
 
-# Apahe-vhost:
+### Apahe-vhost:
 
-[Apache-vhost](http://www.baidu.com "Nginx-vhost")
+[Apache-vhost](https://github.com/Alertu/Nginx_Apche-vhost/blob/master/Apache-vhost.config "Nginx-vhost")
