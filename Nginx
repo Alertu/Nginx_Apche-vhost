@@ -1,5 +1,4 @@
-# Nginx-vhost:
-
+#Nginx-vhost:
 server {
         listen        80; #端口
         server_name  127.0.0.1; # 服务器地址
